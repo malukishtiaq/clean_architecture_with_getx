@@ -1,0 +1,4 @@
+enum OtpStatus {
+  valid,
+  invalid,
+}
